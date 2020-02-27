@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bandizip一键分包安装工具", "Bandizip一键分包安装工具.csproj", "{AEC6F1D1-9DF7-46B4-AF0B-DF73DE9F3805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC6F1D1-9DF7-46B4-AF0B-DF73DE9F3805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC6F1D1-9DF7-46B4-AF0B-DF73DE9F3805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC6F1D1-9DF7-46B4-AF0B-DF73DE9F3805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC6F1D1-9DF7-46B4-AF0B-DF73DE9F3805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02CC9983-8810-4DE5-ACCF-96567110705C}
+	EndGlobalSection
+EndGlobal
